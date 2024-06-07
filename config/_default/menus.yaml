@@ -3,7 +3,7 @@ leftnav:
   name: Calendar
   pageRef: /pages/calendar
   weight: 10
-- identifier: external-04b52e696bd947a9872a39557ccce492
+- identifier: b74f6d64-9665-4d20-ac94-ac0ec5d567c5
   name: Online Publication
-  url: https://biology.mit.edu/undergraduate/current-students/subject-offerings/covid-19-sars-cov-2-and-the-pandemic/
+  pageRef: /external-resources/online-publication_b74f6d64-9665-4d20-ac94-ac0ec5d567c5
   weight: 20
