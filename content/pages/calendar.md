@@ -94,7 +94,7 @@ Dr. Victoria Clark of [Whitehead Institute](https://wi.mit.edu/) and [MGH](https
 10/27/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Arup Chakraborty of [MIT](https://chakrabortygroup.scripts.mit.edu/people/)
+Dr. Arup Chakraborty of [MIT](https://cheme.mit.edu/profile/arup-k-chakraborty/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
