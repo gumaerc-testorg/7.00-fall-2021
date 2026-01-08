@@ -19,112 +19,112 @@ SPEAKER
 1
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "0cf1ce4d-699b-433b-a3f6-f63643d62f7b" "COVID-19 and the Pandemic" %}}
+[COVID-19 and the Pandemic](https://www.youtube.com/watch?v=tXTtMJacNHA)
 
 9/8/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Bruce D. Walker, Director of the {{% resource_link "5dd5df0a-5e66-43cd-98fb-0017a515cc2e" "Ragon Institute of MGH, MIT and Harvard" %}}
+Dr. Bruce D. Walker, Director of the [Ragon Institute of MGH, MIT and Harvard](https://ragoninstitute.org/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "526e06ec-6354-4f0d-aafe-25005d345284" "Insights from the COVID-19 Pandemic" %}}
+[Insights from the COVID-19 Pandemic](https://www.youtube.com/watch?v=Cv5P0bBiIVc)
 
 9/15/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Anthony Fauci, Director of the {{% resource_link "ab36efe3-972b-491e-a8fb-86fc3e5b0c10" "National Institute of Allergy and Infectious Diseases (NIAID)" %}}
+Dr. Anthony Fauci, Director of the [National Institute of Allergy and Infectious Diseases (NIAID)](https://www.niaid.nih.gov/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "335d30a3-68be-4f79-a683-18c6dadbbd89" "Coronavirus Biology" %}}
+[Coronavirus Biology](https://www.youtube.com/watch?v=dcy5Sj74rj0)
 
 9/22/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Britt Glaunsinger of {{% resource_link "50e55ccf-e8fd-4f65-b64d-da194a4f73a1" "HHMI" %}} and {{% resource_link "d01c5497-bece-43e8-9467-854de49db250" "UC Berkeley" %}}
+Dr. Britt Glaunsinger of [HHMI](http://www.hhmi.org/) and [UC Berkeley](https://www.berkeley.edu/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "59199c03-b122-4e2a-9f0c-3ad5d1b5cdd5" "Target Cells and the Innate Response" %}}
+[Target Cells and the Innate Response](https://www.youtube.com/watch?v=Sgkjg0o6Zow)
 
 9/29/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Shiv Pillai of the {{% resource_link "5dd5df0a-5e66-43cd-98fb-0017a515cc2e" "Ragon Institute" %}}, {{% resource_link "b738ac1e-eb30-44d4-a346-728ac450275a" "MGH" %}}, and {{% resource_link "59f4ec8c-ec8e-4faf-a79a-ebf3b6d1ebc0" "Harvard" %}}
+Dr. Shiv Pillai of the [Ragon Institute](https://ragoninstitute.org/), [MGH](https://www.massgeneral.org/), and [Harvard](https://hms.harvard.edu/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "1f84fdc5-f0c5-4149-8718-1a560459dde1" "Public Health" %}}
+[Public Health](https://www.youtube.com/watch?v=8UKXqzN6dJA)
 
 10/5/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Rochelle Walensky, Director of the {{% resource_link "1ad50ffc-dee3-4ca6-916b-084c0d26a161" "Centers for Disease Control and Prevention (CDC)" %}}
+Dr. Rochelle Walensky, Director of the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "8e0e22e5-32b8-4297-86b8-81c056308092" "COVID-19: Looking Ahead at 2022" %}}
+[COVID-19: Looking Ahead at 2022](https://www.youtube.com/watch?v=DgSeRGYZufk)
 
 10/13/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Salim S. Abdool Karim of {{% resource_link "f2c8f614-c597-4c3e-8326-ae74c94a2663" "Columbia University" %}}
+Dr. Salim S. Abdool Karim of [Columbia University](https://www.publichealth.columbia.edu/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3210db75-5883-4f52-b0c3-2e0b610747bb" "The Patient" %}}
+[The Patient](https://www.youtube.com/watch?v=op3xxObR23c)
 
 10/20/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Victoria Clark of {{% resource_link "5b01b632-7eae-47e3-be49-327964c2b8b2" "Whitehead Institute" %}} and {{% resource_link "b738ac1e-eb30-44d4-a346-728ac450275a" "MGH" %}}
+Dr. Victoria Clark of [Whitehead Institute](https://wi.mit.edu/) and [MGH](https://www.massgeneral.org/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "caf79bed-edd4-434b-a111-03209f7a2245" "Vaccination through the Ages: From Smallpox to COVID-19 and Beyond" %}}
+[Vaccination through the Ages: From Smallpox to COVID-19 and Beyond](https://www.youtube.com/watch?v=7iLVG7tTjs8)
 
 10/27/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Arup Chakraborty of {{% resource_link "d1f22458-3e7a-4df2-9607-965e0fed99f7" "MIT" %}}
+Dr. Arup Chakraborty of [MIT](https://cheme.mit.edu/profile/arup-k-chakraborty/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "48e23426-5849-4458-ac9b-81c6eaf7e624" "Adaptive Immunity and Immune Memory to Sars-CoV-2 and COVID-19" %}}
+[Adaptive Immunity and Immune Memory to Sars-CoV-2 and COVID-19](https://www.youtube.com/watch?v=5OguBUfcZoA)
 
 11/3/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Shane Crotty of the {{% resource_link "bfd5aeac-24cb-4515-b936-fc92bb6dc32a" "La Jolla Institute for Immunology" %}}
+Dr. Shane Crotty of the [La Jolla Institute for Immunology](http://www.lji.org/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "286a8d88-5f74-4843-9803-18a8fa722475" "The COVID-19 Clinic" %}}
+[The COVID-19 Clinic](https://www.youtube.com/watch?v=9JRglMkdMWM)
 
 11/10/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Amy Barczak of the {{% resource_link "5dd5df0a-5e66-43cd-98fb-0017a515cc2e" "Ragon Institute" %}} and {{% resource_link "b738ac1e-eb30-44d4-a346-728ac450275a" "MGH" %}}
+Dr. Amy Barczak of the [Ragon Institute](https://ragoninstitute.org/) and [MGH](https://www.massgeneral.org/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "63708333-6734-4a7a-bccf-4f4a4243716c" "Understanding the Structure of the Virus" %}}
+[Understanding the Structure of the Virus](https://www.youtube.com/watch?v=au7Hj75G66E)
 
 11/17/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Andrew Ward of {{% resource_link "c7b08871-8a49-4163-919d-724930ab1c6d" "DISCoBio at The Scripps Research Institute" %}}
+Dr. Andrew Ward of [DISCoBio at The Scripps Research Institute](https://www.scripps.edu/faculty/ward/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -139,20 +139,20 @@ No class
 13
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "2a091beb-67c7-4864-9afb-afbfbf95da6e" "COVID-19 Vaccine Development" %}}
+[COVID-19 Vaccine Development](https://www.youtube.com/watch?v=FAMFH3tHWks)
 
 12/1/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Dan Barouch of {{% resource_link "1ee90db9-b4de-4b5e-a424-2708a3ff6eb7" "Beth Israel Deaconess Medical Center" %}} and the {{% resource_link "5dd5df0a-5e66-43cd-98fb-0017a515cc2e" "Ragon Institute" %}}
+Dr. Dan Barouch of [Beth Israel Deaconess Medical Center](https://www.bidmc.org/) and the [Ragon Institute](https://ragoninstitute.org/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "f3434f40-07e1-4e80-b24d-83cf82dc2a86" "Broadly Neutralizing Antibodies to Speed Pandemic Responses" %}} 
+[Broadly Neutralizing Antibodies to Speed Pandemic Responses](https://www.youtube.com/watch?v=NaIvkZhXJnI) 
 
 12/8/2021
 
 {{< tdclose >}}{{< tdopen >}}
-Dr. Laura Walker of {{% resource_link "3573092b-511c-40f6-8ba3-cac3837b2d87" "Adimab" %}}
+Dr. Laura Walker of [Adimab](https://www.adimab.com/)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
